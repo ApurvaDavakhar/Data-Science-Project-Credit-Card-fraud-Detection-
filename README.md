@@ -1,4 +1,4 @@
-# Data-Science-Project-Credit-Card-fraud-Detection-
+# Credit-Card-fraud-Detection-Project
 
 link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
